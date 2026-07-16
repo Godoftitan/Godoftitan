@@ -73,9 +73,6 @@ Databases                 Human-Centred Software
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square" alt="Make"/>
-  <img src="https://img.shields.io/badge/GDB-A42E2B?style=flat-square" alt="GDB"/>
-  <img src="https://img.shields.io/badge/Valgrind-5C2D91?style=flat-square" alt="Valgrind"/>
 </p>
 
 ## Engineering Approach
